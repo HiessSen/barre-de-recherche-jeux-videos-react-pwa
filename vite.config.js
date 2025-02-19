@@ -20,7 +20,7 @@ export default defineConfig({
           short_name: 'Jeux', // Nom court pour l'écran d'accueil
           description: 'Application de recherche de jeux-vidéos',
           theme_color: '#ffffff', // Couleur du thème
-          start_url: '/',
+          start_url: 'https://hiesssen.github.io/barre-de-recherche-jeux-videos-react-pwa/',
           display: 'standalone', // Mode d'affichage
           background_color: '#ffffff', // Couleur de fond au démarrage
           icons: [
